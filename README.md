@@ -27,11 +27,11 @@ sudo ./androspy.sh
 * Kali linux
 * Parrot os
 # Tutorial
-* [youtube Tutorial]()
+* [Androspy-Tutorial](https://youtu.be/3spGEm6Z3H4)
 # Contact
 
 * [Contact](http://facebook.com/tunisianeagles/) - Tunisian Eagles
-* [Email] - tunisianeagles@protonmail.com - TunisianEagles
+* [Email] - (mailto:tunisianeagles@protonmail.com) - TunisianEagles
 * [Website](http://tunisianeagles.github.io/) - TunisianEagles
 
 #
