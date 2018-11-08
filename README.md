@@ -31,7 +31,7 @@ sudo ./androspy.sh
 # Contact
 
 * [Contact](http://facebook.com/tunisianeagles/) - Tunisian Eagles
-* [Email] - (mailto:tunisianeagles@protonmail.com) - TunisianEagles
+* [Email](mailto:tunisianeagles@protonmail.com) - TunisianEagles
 * [Website](http://tunisianeagles.github.io/) - TunisianEagles
 
 #
