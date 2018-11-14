@@ -1,6 +1,6 @@
 #!/bin/bash
 #Resize
-resize -s 40 92 > /dev/null
+#resize -s 40 92 > /dev/null
 #Colors
 white="\033[1;37m"
 grey="\033[0;37m"
